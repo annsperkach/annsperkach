@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anna</h1>
 <h3 align="center">I'm a passionate frontend developer from Kyiv, Ukraine</h3>
+<img align="right" alt="Coding" width="400" src="![image](https://user-images.githubusercontent.com/71703420/202508435-fab6fe6a-51b1-4e1b-8017-36979fafa308.png)">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=annsperkach" alt="annsperkach" /></a> </p>
 
